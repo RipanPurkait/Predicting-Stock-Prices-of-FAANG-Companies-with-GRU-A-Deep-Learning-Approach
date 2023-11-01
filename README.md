@@ -1,0 +1,1 @@
+# Predicting-Stock-Prices-of-FAANG-Companies-with-GRU-A-Deep-Learning-Approach
