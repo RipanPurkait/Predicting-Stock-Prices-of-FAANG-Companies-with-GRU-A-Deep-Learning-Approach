@@ -1,1 +1,6 @@
-yfinance==0.1.63
+pandas
+numpy
+yfinance
+scikit-learn
+tensorflow
+matplotlib
