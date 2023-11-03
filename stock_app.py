@@ -12,7 +12,7 @@ from sklearn.model_selection import train_test_split
 st.title("FAANG Stock Price Prediction Web App")
 
 # Load the pre-trained model
-model_path = r"D:\Streamlit\Stock_market_prediction\GRU.h5"  # Replace with the path to your .h5 model file
+model_path = "GRU.h5"  # Replace with the path to your .h5 model file
 model = load_model(model_path)
 
 # Get user input
